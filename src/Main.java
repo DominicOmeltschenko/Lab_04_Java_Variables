@@ -50,7 +50,7 @@ public class Main {
 
      System.out.println("The quotient using doubles of " + doubleOperandA + " " + doubleOperandB + " Is " + doubleQuotient);
 
-    double mylunchCost = 13.70;
+     double mylunchCost = 13.70;
 
     System.out.println("The cost of my lunch is: " + mylunchCost);
 
